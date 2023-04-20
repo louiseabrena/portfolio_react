@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project's deployed link is https://louiseabrena.vercel.app/
+This project's deployed link is https://louiseabrena.vercel.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
