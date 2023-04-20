@@ -1,0 +1,172 @@
+@import url("https://fonts.googleapis.com/css2?family=DynaPuff&family=Rubik+Pixels&display=swap");
+
+.page {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#site-name a {
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  font-family: "Rubik Pixels", cursive;
+}
+
+#jumpSection {
+  background-color: black;
+  padding: 25px;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Rubik Pixels", cursive;
+}
+
+#jumpSection a {
+  text-decoration: none;
+  color: white;
+}
+
+#jumpSection a:hover {
+  color: #966b2c;
+}
+
+a {
+  text-decoration: none;
+}
+
+#welcome {
+  color: black;
+  font-family: "DynaPuff", cursive;
+}
+
+h1 {
+  font-family: "DynaPuff", cursive;
+}
+
+#name {
+  font-family: "DynaPuff", cursive;
+  font-size: 25px;
+  color: black;
+  background-color: white;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 0;
+}
+
+#intro {
+  background-color: black;
+  color: white;
+  padding: 50px;
+}
+
+#blurb {
+  font-size: 20px;
+  margin: 0;
+  padding: 0px 100px 20px 100px;
+}
+
+#socials {
+  display: flex;
+  color: white;
+  justify-content: center;
+  justify-content: space-evenly;
+  margin: 0;
+  font-weight: bold;
+  font-family: "Rubik Pixels", cursive;
+}
+
+#socials a:hover {
+  color: #966b2c;
+}
+
+#socials a {
+  color: white;
+}
+#educations {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 18px;
+  padding: 30px;
+}
+#educHeader,
+#skillsHeader {
+  border: solid, black;
+  margin: 20px;
+  background-color: black;
+  color: white;
+}
+
+#projHeader,
+#contHeader {
+  border: solid, black;
+  margin: 20px;
+  background-color: white;
+  color: black;
+}
+#fullProject {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  padding: 50px;
+}
+
+#projects {
+  display: flex;
+  justify-content: space-evenly;
+  flex-flow: row wrap;
+}
+
+#projects a {
+  color: white;
+}
+
+#projects a:hover {
+  color: #966b2c;
+}
+
+#skills {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 25px;
+}
+
+#title {
+  font: 25px;
+  font-weight: bold;
+  font-family: "Rubik Pixels", cursive;
+}
+
+#returntoTop {
+  padding: 25px;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Rubik Pixels", cursive;
+}
+
+#returntoTop a {
+  color: black;
+}
+#returntoTop a:hover {
+  color: #966b2c;
+}
+
+#Contact {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  padding: 25px;
+}
+
+img {
+  width: 300px;
+  height: 250px;
+}
+
+.oneProject {
+  border: solid white;
+  padding: 20px;
+  margin: 20px;
+}
